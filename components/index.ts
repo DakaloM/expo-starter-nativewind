@@ -1,1 +1,2 @@
-export * from "./BottomNavigator"
+export * from "./BottomNavigator";
+export * from "./Button";
